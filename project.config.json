@@ -1,0 +1,13 @@
+{
+  "description": "wepy bug test",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx05c9d08e372a8562",
+  "projectname": "wepy-test",
+  "miniprogramRoot": "./dist"
+}
